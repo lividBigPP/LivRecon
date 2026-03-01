@@ -47,7 +47,7 @@ Auto Mode Selection: Recommends scan speed based on protection levels
 
 Interactive Menu: User-friendly interface with multiple scan modes
 
-🚀 Installation
+ Installation
 Prerequisites
 Python 3.6 or higher
 
@@ -55,7 +55,7 @@ pip (Python package manager)
 
 Step 1: Clone the Repository
 bash
-git clone https://github.com/yourusername/recon-tool.git
+git clone https://github.com/lividbigpp/livrecon.git
 cd recon-tool
 Step 2: Install Dependencies
 bash
