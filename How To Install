@@ -1,0 +1,16 @@
+📦 Installation Guide for recon.py v5.0
+bash:
+# 1. Install dependencies
+pip install dnspython python-whois
+
+# 2. Download the script
+# Option A: Using wget
+wget https://raw.githubusercontent.com/lividbigpp/Livrecon/main/re
+
+# Option B: Using curl
+curl -O https://raw.githubusercontent.com/yourusername/recon-tool/main/reconv6.py
+OR
+# Option C: Just copy the raw file from GitHub
+
+# 3. Run it
+python3 reconv6.py example.com
